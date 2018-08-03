@@ -13,10 +13,10 @@ header{
     width: 100%;
     height: auto;
     display: block;
-    
+
 
   }
-  header>div h1{
+  header>div h3{
     margin-top: 20%;
     margin-right: auto;
     font-family: "arial";
